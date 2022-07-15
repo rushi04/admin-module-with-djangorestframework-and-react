@@ -39,7 +39,7 @@ dask==0.19.1
 datashape==0.5.4
 decorator==4.3.0
 defusedxml==0.5.0
-distributed==1.23.1
+distributed==2021.10.0
 Django==2.1.7
 django-filer==1.4.4
 django-js-asset==1.2.2
